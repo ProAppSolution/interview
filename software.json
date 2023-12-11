@@ -1,0 +1,46 @@
+{
+    "category": "software",
+    "questions": [
+      {
+        "question_text": "What is the difference between procedural programming and object-oriented programming?",
+        "answer": "Procedural programming focuses on procedures or routines, while object-oriented programming emphasizes objects that encapsulate data and behavior."
+      },
+      {
+        "question_text": "Explain the concept of polymorphism in object-oriented programming.",
+        "answer": "Polymorphism allows objects of different types to be treated as objects of a common type. It enables flexibility and extensibility in code."
+      },
+      {
+        "question_text": "How does memory management work in programming languages, and what is the difference between stack and heap?",
+        "answer": "Memory management involves allocating and deallocating memory during program execution. The stack is used for local variables, and the heap is used for dynamic memory allocation."
+      },
+      {
+        "question_text": "What is the role of an index in a database, and how does it impact query performance?",
+        "answer": "An index in a database improves query performance by providing a quick lookup mechanism. It reduces the number of rows that need to be scanned during a search operation."
+      },
+      {
+        "question_text": "Can you explain the difference between synchronous and asynchronous programming?",
+        "answer": "Synchronous programming executes tasks sequentially, while asynchronous programming allows tasks to run independently. Asynchronous operations are non-blocking and can improve application responsiveness."
+      },
+      {
+        "question_text": "What is the purpose of version control systems like Git, and how do they work?",
+        "answer": "Version control systems track changes in code, facilitating collaboration among developers. Git, for example, uses a distributed model, allowing each developer to have a complete repository with version history."
+      },
+      {
+        "question_text": "How does a RESTful API differ from a SOAP-based web service?",
+        "answer": "RESTful APIs use standard HTTP methods and are stateless, while SOAP-based web services use XML and can be more rigid in structure and functionality."
+      },
+      {
+        "question_text": "Explain the significance of the 'Big O' notation in algorithm analysis.",
+        "answer": "Big O notation expresses the upper bound of the running time or space complexity of an algorithm. It helps analyze the efficiency of algorithms and their scalability."
+      },
+      {
+        "question_text": "What is the difference between unit testing and integration testing? Why are they important?",
+        "answer": "Unit testing verifies individual components in isolation, while integration testing checks how different components work together. Both are crucial for ensuring the reliability and functionality of software."
+      },
+      {
+        "question_text": "Describe the differences between a thread and a process in the context of multitasking.",
+        "answer": "A process is an independent program with its own memory space, while a thread is a lightweight unit of execution within a process. Threads share the same memory space and resources, making them more efficient for multitasking."
+      }
+    ]
+  }
+  
