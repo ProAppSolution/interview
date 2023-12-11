@@ -1,0 +1,84 @@
+{
+    "menu": [
+        {
+            "trending": [
+                {
+                    "title": "Artificial Intelligence Engineer",
+                    "description": "AI Engineers develop and implement artificial intelligence solutions, including machine learning algorithms and natural language processing, to enhance software capabilities."
+                },
+                {
+                    "title": "Cybersecurity Analyst",
+                    "description": "Cybersecurity Analysts protect computer systems and networks from security breaches. They monitor for security threats, implement security measures, and conduct regular security audits."
+                },
+                {
+                    "title": "Cloud Solutions Architect",
+                    "description": "Cloud Solutions Architects design and implement scalable and secure cloud infrastructure. They work with cloud platforms like AWS, Azure, or Google Cloud to optimize performance and reliability."
+                },
+                {
+                    "title": "DevOps Engineer",
+                    "description": "DevOps Engineers focus on optimizing the development and operations lifecycle. They automate processes, manage infrastructure, and ensure seamless collaboration between development and IT operations teams."
+                },
+                {
+                    "title": "Data Scientist",
+                    "description": "Data Scientists analyze and interpret complex data sets to inform business decision-making. They use statistical techniques, machine learning, and data visualization to extract insights from data."
+                },
+                {
+                    "title": "Network Engineer",
+                    "description": "Network Engineers design and manage computer networks, ensuring efficient data communication. They configure routers, switches, and other network devices to maintain network integrity."
+                },
+                {
+                    "title": "UI/UX Developer",
+                    "description": "UI/UX Developers combine design and development skills to create visually appealing and user-friendly interfaces. They implement designs using HTML, CSS, and JavaScript to enhance the user experience."
+                },
+                {
+                    "title": "Mobile App Developer",
+                    "description": "Mobile App Developers create applications for mobile devices, such as smartphones and tablets. They may specialize in iOS, Android, or cross-platform development."
+                },
+                {
+                    "title": "Blockchain Developer",
+                    "description": "Blockchain Developers design and implement decentralized and secure blockchain solutions. They work with technologies like Ethereum or Hyperledger to develop blockchain-based applications."
+                }
+            ]
+        },
+        {
+            "software": [
+                {
+                    "title": "Artificial Intelligence Engineer",
+                    "description": "Software AI Engineers specialize in developing AI solutions within the software domain. They leverage machine learning and AI algorithms to enhance software functionality and user experiences."
+                },
+                {
+                    "title": "Cybersecurity Analyst",
+                    "description": "Software Cybersecurity Analysts focus on securing software applications and systems from cyber threats. They implement security measures, conduct code reviews, and address vulnerabilities."
+                },
+                {
+                    "title": "Cloud Solutions Architect",
+                    "description": "Software Cloud Solutions Architects design and implement cloud infrastructure for software applications. They optimize performance, scalability, and reliability in a cloud computing environment."
+                },
+                {
+                    "title": "DevOps Engineer",
+                    "description": "Software DevOps Engineers streamline software development and deployment processes. They automate build and deployment pipelines, ensuring efficient collaboration between development and operations teams."
+                },
+                {
+                    "title": "Data Scientist",
+                    "description": "Software Data Scientists leverage software tools and programming languages to analyze and extract insights from large datasets. They contribute to data-driven decision-making within software projects."
+                },
+                {
+                    "title": "Network Engineer",
+                    "description": "Software Network Engineers focus on optimizing and securing software-related network infrastructure. They ensure seamless data communication and troubleshoot network-related issues in software applications."
+                },
+                {
+                    "title": "UI/UX Developer",
+                    "description": "Software UI/UX Developers implement user interface designs within software applications. They use coding languages like HTML, CSS, and JavaScript to create visually appealing and intuitive interfaces."
+                },
+                {
+                    "title": "Mobile App Developer",
+                    "description": "Software Mobile App Developers specialize in creating software applications for mobile platforms. They develop, test, and optimize mobile apps for iOS, Android, or cross-platform environments."
+                },
+                {
+                    "title": "Blockchain Developer",
+                    "description": "Software Blockchain Developers work on implementing blockchain technology within software projects. They develop decentralized applications (DApps) and ensure the security and integrity of blockchain-based systems."
+                }
+            ]
+        }
+    ]
+}
